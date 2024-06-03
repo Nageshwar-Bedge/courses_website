@@ -1,1 +1,1 @@
-"# Course" 
+"# course_project" 
